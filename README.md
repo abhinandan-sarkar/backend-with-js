@@ -24,6 +24,9 @@ package.jason
     "start":"node index.js"
     }
 
+  3.run command ✅
+  npm run start
+  
 
 
 
